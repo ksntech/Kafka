@@ -112,3 +112,5 @@ services:
       STREAMS_BOOTSTRAP_SERVERS: kafka:29092
       STREAMS_SCHEMA_REGISTRY_HOST: schema-registry
       STREAMS_SCHEMA_REGISTRY_PORT: 8081
+      
+      # Comment for Test
